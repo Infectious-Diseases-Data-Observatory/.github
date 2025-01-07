@@ -6,6 +6,8 @@ The Infectious Diseases Data Observatory (IDDO) is a scientifically independent,
 
 <img src="iddo-themes.png" height="400"/>
 
+This GitHub hosts open-source code and packages which can be used for data cleaning, tranformation and analysis. 
+
 ### Contribution Guidelines
 Our tools in this GitHub are made open source for you to use to assist in your research for the benefit of the global community, if you would like to add, improve or develop existing or new tools, we would be happy to collabroate with you.
 
