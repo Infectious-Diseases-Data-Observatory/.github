@@ -24,3 +24,4 @@ By sharing your data through IDDO, you will help to:
 ### Resources
 - [IDDO Website](https://www.iddo.org)
 - [IDDO Wiki](https://wiki.iddo.org)
+- [Git & Reproducibility Resources](https://git-is-my-lab-book.net/) Thanks to Rob Moss (GitHub Username: robmoss), Eamon Conway (EamonConway), James Ong (jomonman537), Trish Campbell (TrishC), Isobel Abell (iabell), Nefel Tellioglu (nefeltellioglu)
